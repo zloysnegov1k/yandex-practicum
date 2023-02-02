@@ -1,2 +1,0 @@
-# yandex-practicum
-projects
